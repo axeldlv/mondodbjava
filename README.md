@@ -1,4 +1,4 @@
-# mondodbjava
+# mongodb Java
 Mongodb homework related to M101J: MongoDB for Java Developers 
 
 Status : [![Build Status](https://travis-ci.org/axeldlv/mondodbjava.svg?branch=master)](https://travis-ci.org/axeldlv/mondodbjava)
